@@ -27,12 +27,12 @@ author:
   bio: "finding around and fucking out"
   location: "your secret room"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/gelosi"
-    - label: "Apple Refubs in EU"
-      icon: "fas fa-fw fa-shopping-cart"
-      url: "https://gelosi.github.io/refub-shop"
+    - label: "personal email website"
+      icon: "fa-regular fa-globe-pointer" 
+      url: "https://shanyuk.com"
+    - label: "pro website"
+      icon: "fa-solid fa-badge-check"
+      url: "https://www.linkedin.com/in/oleg-shanyuk"
 
 # ---------------------------------------------------------------
 # GitHub Activity Integration
