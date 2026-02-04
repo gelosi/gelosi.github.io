@@ -35,17 +35,6 @@ author:
       url: "https://gelosi.github.io/refub-shop"
 
 # ---------------------------------------------------------------
-# Navigation (Top Bar)
-# ---------------------------------------------------------------
-main:
-  - title: "Home"
-    url: /
-  - title: "Refub Shop (Mini-Project)"
-    url: "https://gelosi.github.io/refub-shop"
-  - title: "GitHub Profile"
-    url: "https://github.com/gelosi"
-
-# ---------------------------------------------------------------
 # GitHub Activity Integration
 # ---------------------------------------------------------------
 # These settings allow plugins to pull your GH metadata
