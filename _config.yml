@@ -28,11 +28,14 @@ author:
   location: "your secret room"
   links:
     - label: "personal email website"
-      icon: "fa-regular fa-globe-pointer" 
+      icon: "fas fa-paper-plane" 
       url: "https://shanyuk.com"
     - label: "pro website"
-      icon: "fa-solid fa-badge-check"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/oleg-shanyuk"
+    - label: "toot | mastodon"
+      icon: "fab fa-mastodon"
+      url: "https://mastodon.social/@gelosi"
 
 # ---------------------------------------------------------------
 # GitHub Activity Integration
