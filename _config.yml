@@ -23,9 +23,9 @@ minimal_mistakes_skin: "dark"
 # ---------------------------------------------------------------
 author:
   name: "gelosi"
-  avatar: "/assets/images/avatar.jpg" # You'll need to add an image here, or use a URL
-  bio: "Building cool things on the web."
-  location: "Internet"
+  avatar: "https://github.com/gelosi.png" # This pulls your current GH profile pic
+  bio: "finding around and fucking out"
+  location: "your secret room"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
