@@ -1,0 +1,76 @@
+# ---------------------------------------------------------------
+# Site Settings
+# ---------------------------------------------------------------
+title: "gelosi @ github"
+description: "Hub for my projects, open source activity, and experiments."
+url: "https://gelosi.github.io" # Your main GitHub Pages URL
+baseurl: "" # Keep empty if this is your main root site
+repository: "gelosi/gelosi.github.io" # Link to the repo of this specific page
+
+# ---------------------------------------------------------------
+# The Look & Feel (The "Cool" Factor)
+# ---------------------------------------------------------------
+# This uses the "Minimal Mistakes" theme remotely. 
+# No complex install needed.
+remote_theme: mmistakes/minimal-mistakes
+
+# Skins: "air", "aqua", "contrast", "dark", "dirt", "mint", "sunrise"
+# "dark" or "contrast" usually looks the most modern/cool.
+minimal_mistakes_skin: "dark" 
+
+# ---------------------------------------------------------------
+# Author / Profile Information
+# ---------------------------------------------------------------
+author:
+  name: "gelosi"
+  avatar: "/assets/images/avatar.jpg" # You'll need to add an image here, or use a URL
+  bio: "Building cool things on the web."
+  location: "Internet"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/gelosi"
+    - label: "Apple Refubs in EU"
+      icon: "fas fa-fw fa-shopping-cart"
+      url: "https://gelosi.github.io/refub-shop"
+
+# ---------------------------------------------------------------
+# Navigation (Top Bar)
+# ---------------------------------------------------------------
+main:
+  - title: "Home"
+    url: /
+  - title: "Refub Shop (Mini-Project)"
+    url: "https://gelosi.github.io/refub-shop"
+  - title: "GitHub Profile"
+    url: "https://github.com/gelosi"
+
+# ---------------------------------------------------------------
+# GitHub Activity Integration
+# ---------------------------------------------------------------
+# These settings allow plugins to pull your GH metadata
+github:
+  username: gelosi
+  is_project_page: false
+
+# ---------------------------------------------------------------
+# Plugins (Gems)
+# ---------------------------------------------------------------
+plugins:
+  - jekyll-feed           # Generates an RSS feed
+  - jekyll-seo-tag        # Essential for Google/Social Media sharing
+  - jekyll-sitemap        # Helps search engines find your pages
+  - jekyll-gist           # Embeds Gists easily
+  - jemoji                # Renders emoji shortcuts like :smile:
+  - jekyll-include-cache  # caching
+
+# ---------------------------------------------------------------
+# Advanced Settings
+# ---------------------------------------------------------------
+encoding: "utf-8"
+markdown: kramdown
+highlighter: rouge    # Syntax highlighting for code blocks
+lsi: false
+excerpt_separator: "\n\n"
+comments:
+  provider: "giscus" # Highly recommended: uses GitHub Discussions for comments!
