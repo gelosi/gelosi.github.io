@@ -1,15 +1,9 @@
 ---
----
 layout: post
-title: Refub Shop
-date: 2026-02-05 00:00:00 +0000
-categories:
-  - artisan
-  - simple
-tags:
-  - project
-  - apple
-  - shop
+title: "Refub Shop"
+date: 2026-02-05 00:01:00 +0100
+categories: [artisan, simple]
+tags: [project, apple, shop]
 ---
 
 ## Hardware at Price
