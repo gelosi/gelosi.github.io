@@ -6,6 +6,7 @@ description: "Hub for my projects, open source activity, and experiments."
 url: "https://gelosi.github.io" # Your main GitHub Pages URL
 baseurl: "" # Keep empty if this is your main root site
 repository: "gelosi/gelosi.github.io" # Link to the repo of this specific page
+show_excerpts: true
 
 # ---------------------------------------------------------------
 # The Look & Feel (The "Cool" Factor)
