@@ -13,7 +13,7 @@ show_excerpts: true
 # ---------------------------------------------------------------
 # This uses the "Minimal Mistakes" theme remotely. 
 # No complex install needed.
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+remote_theme: mmistakes/minimal-mistakes
 
 # Skins: "air", "aqua", "contrast", "dark", "dirt", "mint", "sunrise"
 # "dark" or "contrast" usually looks the most modern/cool.
