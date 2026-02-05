@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Refub Shop"
 date: 2026-02-05 00:01:00 +0100
 categories: [artisan, simple]

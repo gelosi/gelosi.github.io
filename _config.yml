@@ -38,6 +38,18 @@ author:
     - label: "toot | mastodon"
       icon: "fab fa-mastodon"
       url: "https://mastodon.social/@gelosi"
+# ---------------------------------------------------------------
+# Post Settings
+# ---------------------------------------------------------------
+defaults:
+  - scope:
+      path: ""
+      type: "posts" # This targets everything in the _posts folder
+    values:
+      layout: "single"
+      author_profile: true
+      share: true
+      show_date: true
 
 # ---------------------------------------------------------------
 # GitHub Activity Integration
