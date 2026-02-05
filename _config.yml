@@ -7,7 +7,8 @@ url: "https://gelosi.github.io" # Your main GitHub Pages URL
 baseurl: "" # Keep empty if this is your main root site
 repository: "gelosi/gelosi.github.io" # Link to the repo of this specific page
 show_excerpts: true
-
+layout: home
+author_profile: true
 # ---------------------------------------------------------------
 # The Look & Feel (The "Cool" Factor)
 # ---------------------------------------------------------------
@@ -23,7 +24,7 @@ minimal_mistakes_skin: "dark"
 # Author / Profile Information
 # ---------------------------------------------------------------
 author:
-  name: "gelosi"
+  name: "Oleg Shanyuk"
   avatar: "https://github.com/gelosi.png" # This pulls your current GH profile pic
   bio: "finding around and fucking out"
   location: "your secret room"
